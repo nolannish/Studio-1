@@ -1,6 +1,5 @@
 # Studio-1
 
-Video Submission for the video:
+Link to youtube video for submission:
 
-<video src="./Videos/2025-01-28 20-07-08.mp4" width="320" height="240" controls></video>
- 
+[![Studio 1](./Images/Screenshot%202025-01-28%20202137.png)](https://youtu.be/WCQoXCluw2c)
